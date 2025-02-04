@@ -94,7 +94,7 @@ As atividades propostas são:
    - Clone o Repositório:
      ```sh
      git init
-     git clone https://github.com/ViniZOH/Matriz-de-LEDs.git
+     git clone https://github.com/4mandaCardoso/EmbarcaTech_Atv29_01.git
      ```  
 
 2. **Carregamento e Compilação:**  
