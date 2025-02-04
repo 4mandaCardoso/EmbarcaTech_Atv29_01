@@ -112,8 +112,7 @@ As atividades propostas são:
 1. **Atividade 1:**  
 *link:* https://wokwi.com/projects/421977600200500225
 
-2. **Atividade 2**
- 
+2. **Atividade 2**  
 *link:* https://wokwi.com/projects/421973619392236545 
 
 ───────────────────────────────────────────────
