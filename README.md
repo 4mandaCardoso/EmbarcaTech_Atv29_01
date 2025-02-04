@@ -90,7 +90,12 @@ As atividades propostas são:
      ```sh
      git clone https://github.com/4mandaCardoso/EmbarcaTech_Atv29_01.git
      ```  
-   - Abra o projeto no VS Code ou no ambiente de sua preferência.
+   - Abra o projeto no VS Code 
+   - Clone o Repositório:
+     ```sh
+     git init
+     git clone https://github.com/ViniZOH/Matriz-de-LEDs.git
+     ```  
 
 2. **Carregamento e Compilação:**  
    - Compile o código e gere o arquivo UF2.
